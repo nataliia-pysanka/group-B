@@ -5,5 +5,4 @@ ALL CONFLICTS WERE RESOLVED!!!!
 * hello
 * Zhukov Oleksandr
 * Vladislav Kandyba
-
-
+* Nikolett Drahun
