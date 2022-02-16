@@ -1,4 +1,5 @@
 group B:
+
 hello :
 * Zhukov Oleksandr
 * Vladislav Kandyba
@@ -6,5 +7,5 @@ hello :
 * Kirill Rizhikov
 * volodymyr kiriushyn;
 * Lebets Sergey
-
+* Plotnikov Denis
 
