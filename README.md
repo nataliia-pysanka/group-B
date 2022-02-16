@@ -6,3 +6,5 @@ ALL CONFLICTS WERE RESOLVED!!!!
 * Zhukov Oleksandr
 * Vladislav Kandyba
 * Nikolett Drahun
+* Kirill Rizhikov
+
