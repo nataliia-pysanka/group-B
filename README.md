@@ -1,10 +1,7 @@
 group B:
-
-ALL CONFLICTS WERE RESOLVED!!!!
-* hello NIKITKA
-* hello
+hello :
 * Zhukov Oleksandr
 * Vladislav Kandyba
 * Nikolett Drahun
 * Kirill Rizhikov
-
+* volodymyr kiriushyn;
