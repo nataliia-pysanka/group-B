@@ -1,7 +1,6 @@
 group B:
 
-hello :
-
+hello:
  Zhukov Oleksandr
  Vladislav Kandyba
  Nikolett Drahun
@@ -12,4 +11,4 @@ hello :
  Zharyi Ivan
  NIKITKA
  Nataliia
- *
+ Hello again Zhukov!!!
