@@ -1,3 +1,3 @@
 group B:
 
-hello
+* hello NIKITKA
